@@ -48,10 +48,10 @@ For convenience, there are helper scripts available which handle all of the setu
 
 ```bash
 # Linux & MacOS
-./envrun.sh
+./run.sh
 
 # Windows (cmd)
-winenvrun.bat
+winrun.bat
 ```
 
 The `-i` and `-s` flags can also be passed to these scripts.
